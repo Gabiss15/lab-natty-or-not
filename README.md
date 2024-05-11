@@ -20,29 +20,30 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# TechEdu: Conctando o futuro
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Esse projeto foi realizado durante o bootcamp de Fundamentos de IA da DIO em parceria com o Santander. Um vídeo criado com inteligência artificial sobre as vantagens da utilização das IA's na educação
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+[ChatGPT](https://chatgpt.com)
+[D-ID](https://www.d-id.com/pricing/studio/)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
+A partir de prompt usado no chatGPT foi gerado o roteiro, com isso, posteriormente, copiando o texto na plataforma da D-ID foi gerado um vídeo com um avatar a partir da Inteligência Artificial
+| Ação | Prompt |
+|-------------|-------------|
+| Roteiro   | Seja um educador com pós na área de tecnologia e crie um roteiro para um podcast que fale sobre as vantagens da IA na educação, utilize as {REGRAS}
+{REGRAS}
+> Voltado para um público jovem
+> Se apresente como Raquel, personagem feminino
+> A duração do podcast é de um minuto    |
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
 ### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+- [Vídeo (https://studio.d-id.com/share?id=dc4933b8e4afc744af05e10c1bfd5eb9&utm_source=copy)]
 
 ## Links Interessantes
 
