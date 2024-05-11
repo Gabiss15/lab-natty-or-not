@@ -40,10 +40,7 @@ A partir de prompt usado no chatGPT foi gerado o roteiro, com isso, posteriormen
 > A duração do podcast é de um minuto    |
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
-
-### Exemplos e Insigths
-
-- [Vídeo (https://studio.d-id.com/share?id=dc4933b8e4afc744af05e10c1bfd5eb9&utm_source=copy)]
+[VÍDEO TECHEDU](https://studio.d-id.com/share?id=dc4933b8e4afc744af05e10c1bfd5eb9&utm_source=copy)
 
 ## Links Interessantes
 
